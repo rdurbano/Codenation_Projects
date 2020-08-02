@@ -1,0 +1,17 @@
+
+Montar ambiente no VSCode com Debugger ! 
+
+https://awesome-streamlit.readthedocs.io/en/latest/vscode.html
+
+
+Sobre __name__
+
+https://www.freecodecamp.org/news/whats-in-a-python-s-name-506262fe61e8/
+
+http://devfuria.com.br/python/entenda-__name__-__main__/
+
+
+
+Normalização e Padronização
+
+https://chrisalbon.com/python/data_wrangling/pandas_normalize_column/
